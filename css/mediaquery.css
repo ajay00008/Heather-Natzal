@@ -1,0 +1,1482 @@
+
+
+  
+  /*----------------------------------------blog description page-------------------------------*/
+  @media screen and (max-width: 1300px) {
+   .recent-posts .slick-nexts.slick-arrow {
+    right: -40px;
+}
+ .recent-posts .slick-prevs.slick-arrow {
+    left: -40px;
+}
+}
+
+
+/*.............................................Home page start...................................*/
+
+@media screen and (max-width: 1200px) {
+    .slider .card {
+    width: 365px;
+    height: 475px;
+  }
+  .slick-nexts.slick-arrow {
+    right: -23px;
+}
+  .slick-prevs.slick-arrow {
+    left: -52px;
+  }
+  .expert .expert-info h2 {
+    font-size: 46px;
+    line-height: 65px;
+  }
+  .expert .expert-info img {
+    margin-bottom: 19px;
+  }
+  .expert .expert-info p {
+    margin-bottom: 18px;
+  }
+  .expert .expert-info span {
+    line-height: 72px;
+  }
+  .popular-places .watermarka h6 {
+    font-size: 287px;
+    letter-spacing: 10px;
+  }
+  .popular-places .watermarka {
+    left: 431px;
+    top: -164px;
+  }
+  .services .watermarka {
+    top: -198px;
+  }
+  .services .watermarka h6 {
+    font-size: 171px;
+    line-height: 139px;
+  }
+  .services .watermarka span {
+    font-size: 161px;
+  }
+  .communities .watermarka h6 {
+    font-size: 122px;
+    line-height: 156px;
+    margin-top: -139px;
+}
+  .communities .watermarka {
+    right: -10px;
+}
+.expert .expert-image::before {
+    left: -30px;
+    right: 30px;
+    top: 30px;
+    bottom: -30px;
+}
+.property-valuation .card .btn {
+    padding: 20px 38px;
+  }
+  .property-valuation .card {
+    padding: 35px;
+    margin: 250px 0px 100px 0px;
+}
+.popular-places .watermarka {
+    left: 390px;
+}
+.popular-places .places-info {
+    background-color: #f8f8f8;
+    padding-left: 110px;
+    padding-right: 110px;
+    padding-bottom: 230px;
+    padding-top: 30px;
+}
+
+/*----------------------------------------------about us page---------------------------------------*/
+ .about-team .team-member {
+    width: auto;
+    height: 328px;
+    display: flex;
+    justify-content: center;
+}
+.about-services .service-left-info h5 {
+    font-size: 23px;
+    letter-spacing: 1px;
+    line-height: 28px;
+}
+.about-services .service-right-info h5 {
+    font-size: 23px;
+    letter-spacing: 1px;
+    line-height: 28px;
+}
+/*-------------------------------------------connect us page---------------------------------------*/
+ .connect-expert .connect-expert-image::before {
+    left: 38px;
+    right: -30px;
+    top: 38px;
+    bottom: -38px;
+}
+.connect-contact .watermarka h6 {
+    font-size: 95px;
+}
+.connect-expert .connect-expert-info {
+    margin-top: 85px;
+}
+.connect-contact .watermarka span {
+    font-size: 70px;
+}
+
+/*-------------------------------------------blog description page---------------------------------*/
+.recent-posts .slick-prevs.slick-arrow {
+    bottom: 160px;
+    left: -55px;
+    position: absolute;
+    width: 35px;
+}
+.recent-posts .slick-nexts.slick-arrow {
+    bottom: 160px;
+    right: -27px;
+    position: absolute;
+    font-size: 40px;
+    width: 35px;
+}
+
+/*---------------------------------------------team page------------------------------------------------*/
+.team-expert {
+    padding-top: 30px;
+}
+
+}
+
+
+
+@media screen and (max-width: 1180px) {
+  
+  .expert {
+    padding: 56px 0px 130px 0px;
+  }
+  .expert .expert-info h2 {
+    font-size: 36px;
+    line-height: 52px;
+  }
+  .expert .expert-info span {
+    line-height: 52px;
+  }
+  .popular-places .watermarka h6 {
+    font-size: 241px;
+    letter-spacing: 6px;
+  }
+  .popular-places .watermarka span {
+    font-size: 129px;
+  }
+  .popular-places {
+    padding: 58px 0px 200px 0px;
+  }
+  .popular-places .watermarka {
+    left: 392px;
+    top: -193px;
+  }
+  .slick-nexts.slick-arrow {
+    right: -64px;
+  }
+  .slick-prevs.slick-arrow {
+    left: -65px;
+  }
+  .services .watermarka span {
+    font-size: 152px;
+  }
+  .services .watermarka h6 {
+    font-size: 162px;
+    line-height: 120px;
+  }
+  .services .watermarka {
+    top: -184px;
+  }
+  .services .service-left-info h5 {
+    font-size: 24px;
+    letter-spacing: 1px;
+    line-height: 30px;
+  }
+  .services .service-right-info h5 {
+    font-size: 24px;
+    letter-spacing: 1px;
+    line-height: 30px;
+  }
+  .services .service-left-info {
+    margin-top: 35px;
+  }
+  .services .service-right-info {
+    margin-top: 35px;
+  }
+  .services p {
+    font-size: 14px;
+  }
+  .services .service-image {
+    height: 345px;
+  }
+  .property-valuation .card {
+    padding: 81px;
+    margin: 191px 0px 0px 0px;
+  }
+  .communities .watermarka h6 {
+    font-size: 113px;
+    margin-top: -119px;
+  }
+  .communities {
+    padding: 175px 0px 40px 0px;
+  }
+  .slides p {
+    font-size: 20px;
+    margin-bottom: 34px;
+    line-height: 36px;
+  }
+  .slides .slick-prevs.slick-arrow {
+    bottom: 290px;
+    left: -100px;
+  }
+  .slides .slick-nexts.slick-arrow {
+    bottom: 290px;
+    right: -100px;
+  }
+  .blogs-head h2 {
+    font-size: 33px;
+    line-height: 64px;
+  }
+  .blogs .card {
+    padding: 20px;
+  }
+  .contact .form-control {
+    height: 49px;
+    margin: 3px 0px 19px 0px;
+  }
+  .contact .form-group .form-control {
+    height: 72px;
+  }
+  .contact .btn {
+    padding: 10px 31px;
+    margin-top: 10px;
+  }
+  .footer img {
+    margin: 33px 0px 15px 0px;
+  }
+  .footer .links {
+    margin: 10px 0px 0px 0px;
+    padding-bottom: 4px;
+  }
+   .slider .card {
+    width: 379px;
+    height: 446px;
+  }
+.expert .expert-info p {
+    margin-bottom: 10px;
+}
+.expert .expert-info img {
+    margin-bottom: 14px;
+}
+.property-valuation .card {
+    padding: 58px;
+}
+.about-services .watermarka span {
+    font-size: 160px;
+    margin-left: 190px;
+}
+.property-valuation .card {
+    margin: 160px 0px 0px 0px;
+}
+/*----------------------------------------------connect us page--------------------------------------*/
+.connect-expert .connect-expert-info {
+    margin-top: 80px;
+}
+/*----------------------------------------------community page-----------------------------------*/
+.collection-communities .collection-communities-box {
+    top: 46%;
+    left: 5%;
+}
+.collection-communities .collection-bg {
+    margin-bottom: 120px;
+}
+.collection-communities .collection-communities-head h2 {
+    line-height: 40px;
+}
+.collection-communities-info {
+    margin-bottom: 20px;
+}
+
+  
+}
+
+@media screen and (max-width: 1080px) {
+  body 
+.popular-places .watermarka {
+    position: absolute;
+    z-index: -1;
+    left: 353px;
+    top: -145px;
+}
+.slick-nexts.slick-arrow {
+    right: -27px;
+}
+.expert {
+    padding: 40px 0px 130px 0px;
+}
+body .popular-places .watermarka {
+    left: 340px;
+    top: -100px;
+}
+.popular-places .places-info {
+    background-color: #f8f8f8;
+    padding: 34px 100px 260px 144px;
+}
+.popular-places .places-info h2 {
+    font-size: 36px;
+    line-height: 28px;
+}
+ .slider .card {
+    width: 355px;
+    height: 480px;
+}
+.slick-nextss.slick-arrow {
+    right: -25px;
+}
+.slick-prevs.slick-arrow {
+    left: -45px;
+}
+.services .watermarka h6 {
+    font-size: 143px;
+    line-height: 128px;
+}
+.services .watermarka {
+    top: -180px;
+}
+.communities {
+    padding: 167px 0px 26px 0px;
+}
+.property-valuation .card p {
+    margin: 14px 0px;
+}
+
+/*----------------------------------------------about us page---------------------------------------*/
+.about-expert .about-expert-info p {
+    line-height: 23px;
+    margin: 10px 0px;
+}
+.about-expert {
+    padding: 0px 0px 165px 0px;
+}
+.about-expert .about-expert-head {
+    margin: 20px 0px;
+}
+.about-team {
+    padding: 34px 0px;
+}
+.about-team .team-member {
+    height: 324px;
+}
+.about-team .watermarka {
+    top: -225px;
+    left: 348px;
+}
+.about-services .service-left-info h5 {
+    font-size: 27px;
+}
+.about-services .service-right-info h5 {
+    font-size: 27px;
+}
+.about-services .service-image {
+    height: 355px;
+}
+.about-services .watermarka span {
+    font-size: 165px;
+    margin-left: 165px;
+}
+.about-team .member-info h2 {
+    line-height: 45px;
+    padding-right: 117px;
+    font-size: 31px;
+}
+/*-------------------------------------------connect us page------------------------------------------*/
+ .connect-expert .connect-expert-info {
+    margin-top: 80px;
+}
+
+/*-----------------------------------------blog description page--------------------------------------*/
+.recent-posts .slick-nexts.slick-arrow {
+    bottom: 160px;
+    right: 0;
+    position: absolute;
+    background-color: #fffdf9;
+    font-size: 40px;
+    display: flex;
+    display: flex;
+    width: 55px;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+    justify-content: center;
+}
+.recent-posts .slick-prevs.slick-arrow {
+    bottom: 160px;
+    left: 0;
+    z-index: 1;
+    background-color: white;
+    position: absolute;
+    font-size: 40px;
+    padding: 10px;
+    display: flex;
+    width: 55px;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
+
+
+    }
+
+
+@media screen and (max-width: 1024px) {
+  body 
+   
+.expert .expert-info h2 {
+    font-size: 38px;
+    line-height: 52px;
+}
+.popular-places .watermarka h6 {
+    font-size: 125px;
+    line-height: 75px;
+}
+.popular-places .watermarka span {
+    font-size: 78px;
+    line-height: 75px;
+}
+.expert {
+    padding: 30px 0px 100px 0px;
+}
+.popular-places .watermarka {
+    left: 400px;
+    top: -156px;
+}
+.slider .card {
+    width: 344px;
+    height: 466px;
+}
+ .slider .card {
+    width: 348px;
+    height: 455px;
+}
+body 
+ .slider .card {
+    width: 342px;
+    height: 460px;
+}
+.slick-nexts.slick-arrow {
+    right: 15px;
+}
+.slick-prevs.slick-arrow {
+    left: -25px;
+}
+.services .watermarka span {
+    font-size: 109px;
+}
+.services .watermarka h6 {
+    font-size: 130px;
+    line-height: 95px;
+}
+.services .watermarka {
+    top: -168px;
+}
+.services .service-image {
+    height: 316px;
+}
+.property-valuation .card {
+    padding: 37px;
+}
+.communities {
+    padding: 92px 0px 23px 0px;
+}
+.slides .slick-prevs.slick-arrow {
+    left: -60px;
+}
+.slides .slick-nexts.slick-arrow {
+    right: -60px;
+}
+.slides .card {
+    margin: 30px 0px;
+}
+.connect-expert .connect-expert-info {
+    margin-top: 50px;
+}
+.connect-contact .style {
+    margin-bottom: 80px;
+}
+body .connect-expert .connect-expert-info {
+    margin-top: 15px;
+}
+}
+
+@media screen and (max-width: 992px) {
+  body 
+    .slider .card img {
+    height: 501px;
+}
+    .popular-places {
+    padding: 54px 0px 200px 0px;
+}
+.slides .slick-prevs.slick-arrow {
+    bottom: 325px;
+    left: -18px;
+}
+.slides .slick-nexts.slick-arrow {
+    bottom: 325px;
+    right: -15px;
+}
+
+body .expert {
+    padding: 23px 0px 45px 0px;
+}
+body .expert .expert-info h2 {
+    font-size: 23px;
+    line-height: 36px;
+}
+body .popular-places .watermarka {
+    left: 100px;
+    top: -40px;
+}
+.popular-places .places-info {
+    background-color: #f8f8f8;
+    padding: 34px 40px 160px 44px;
+}
+.popular-places .places-info p {
+    word-spacing: 3px;
+    margin-bottom: 25px;
+    margin-top: 12px;
+}
+.popular-places .places-info h2 {
+    font-size: 27px;
+    line-height: 26px;
+}
+.popular-places .places-info span {
+    font-size: 17px;
+    line-height: 53px;
+}
+body .slider .card {
+    width: 300px;
+    height: 372px;
+}
+.popular-places .watermarka span {
+    font-size: 136px;
+    letter-spacing: 7px;
+    margin-left: 0px;
+}
+
+.footer p {
+    margin-bottom: 29px;
+}
+.communities-info {
+    margin-top: 20px;
+}
+.communities .btn {
+    margin-top: 20px;
+}
+
+.communities .watermarka {
+    left: 20px;
+    right: 0;
+    top: 20px;
+    letter-spacing: 0px;
+}
+.blogs .card {
+    padding: 10px;
+}
+.blogs .card h5 {
+    line-height: 30px;
+}
+/*------------------------------------------------about-us page-------------------------------------*/
+ .about-expert-image img {
+    height: 100%;
+    object-fit: cover;
+}
+/*.about-team .team-member {
+    height: 251px;
+}*/
+.about-team .member-info h2 {
+    line-height: 31px;
+    padding-right: 0px;
+    font-weight: 600;
+    margin-top: 10px;
+    font-size: 26px;
+}
+
+.about-team .member-info {
+    margin-bottom: 20px;
+}
+
+.about-team .watermarka span {
+    margin-left: 15px;
+}
+.about-services .watermarka h6 {
+    line-height: 63px;
+}
+.about-team .watermarka {
+    left: 145px;
+    top:-105px;
+}
+
+.about-team .watermarka h6 {
+    font-size: 60px;
+    line-height: 41px;
+}
+.about-expert .about-expert-head span {
+    font-size: 27px;
+    font-weight: 500;
+    color: #b28e4a;
+}
+
+
+
+.about-services {
+    padding-top: 90px;
+}
+.about-services .watermarka {
+    top: -99px;
+}
+.services .service-right-info h5 {
+    font-size: 24px;
+    letter-spacing: 1px;
+    line-height: 30px;
+}
+.services .service-left-info h5 {
+    font-size: 24px;
+    letter-spacing: 1px;
+    line-height: 30px;
+}
+
+.about-services .service-left-info {
+    margin-bottom: 10px;
+}
+
+.about-services .service-left-info h5 {
+    font-size: 18px;
+    letter-spacing: 2px;
+    line-height: 28px;
+}
+.about-services .watermarka h6 {
+    line-height: 63px;
+}
+.about-services .watermarka span {
+    font-size: 54px;
+}
+
+.about-services .watermarka h6 {
+    line-height: 64px;
+    font-size: 100px;
+}
+.about-services .service-right-info {
+    margin-top: 25px;
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+
+.about-services .service-right-info h5 {
+    font-size: 18px;
+    letter-spacing: 2px;
+    line-height: 28px;
+}
+.about-services .service-image {
+    height: 320px;
+}
+.about-services .service-left-info {
+    margin-top: 25px;
+}
+.about-services .service-right-info {
+    margin-top: 25px;
+}
+.about-footer img {
+    margin: 38px 0px 20px 0px;
+}
+.about-footer p {
+    margin-bottom: 31px;
+}
+
+/*-------------------------------------------connect us page--------------------------------------------*/
+body .connect-connect-expert {
+    padding: 72px 0px 400px 0px;
+}
+
+.connect-expert .connect-expert-info h2 {
+    padding-right: 106px;
+    line-height: 46px;
+    margin-bottom: 14px;
+}
+/*-------------------------------------------community page----------------------------------------------*/
+.collection-communities .collection-communities-box h2 {
+    line-height: 46px;
+    font-size: 24px;
+}
+/*-------------------------------------------------------Community detail page--------------------------*/
+.maravilla {
+    padding: 15px 0px;
+}
+.maravilla .maravilla-head-undreline-image {
+    margin-bottom: 15px;
+}
+}
+
+@media screen and (max-width: 767px) {
+  body 
+  .services .watermarka span {
+    font-size: 100px;
+}
+.services .watermarka {
+    top: -100px;
+}
+.expert {
+    padding: 50px 0px 130px 0px;
+}
+body .slider .card img {
+    height: 330px;
+}
+
+.services .watermarka h6 {
+    display: none;
+}
+.services .watermarka span {
+    margin-left: 75px;
+}
+body .services .watermarka span {
+    font-size: 48px;
+}
+.slick-prevs.slick-arrow {
+    left: 20px;
+    bottom: 150px;
+}
+.slick-nexts.slick-arrow {
+    right: 50px;
+    bottom: 155px;
+}
+.services .service-right-info {
+    text-align: left;
+    margin-top: 20px;
+}
+body .slider .card img {
+    height: 390px;
+}
+
+.services .service-left-info {
+    margin-top: 20px;
+}
+.communities .watermarka h6 {
+    font-size: 56px;
+    line-height: 136px;
+    margin-top: 0px;
+}
+.blogs .card {
+    margin-bottom: 10px;
+}
+.footer .links a {
+    padding: 0px 11px;
+}
+.expert .expert-info {
+    margin-top: 60px;
+}
+.expert .expert-info span {
+    line-height: 50px;
+}
+body .expert .expert-info h2 {
+    font-size: 21px;
+    line-height: 31px;
+}
+.expert .expert-info p {
+    word-spacing: 4px;
+}
+.expert .expert-info .btn {
+    padding: 7px 22px;
+}
+.popular-places .watermarka span {
+    font-size: 79px;
+    margin-left: 20px;
+}
+body .popular-places .watermarka {
+    left: 140px;
+    top: -90px;
+}
+.popular-places .places-info .btn {
+    padding: 7px 22px;
+}
+.services .service-right-info {
+    text-align: left;
+}
+
+.communities .communities-info span {
+    font-size: 28px;
+}
+.communities-info h5 {
+    font-size: 20px;
+    line-height: 1px;
+}
+.plist:nth-child(3) .card {
+    margin-top: 0px;
+}
+.plist .card {
+    margin-top: 40px;
+}
+.communities .card img {
+    width: 100%;
+}
+li.nav-item.toggle img {
+    display: none;
+}
+.services {
+    padding-top: 20px;
+}
+.scroll-button img {
+    display: none;
+}
+.social-icon {
+    display: none;
+}
+.services .service-image img {
+    height: 100%;
+    width: auto;
+}
+/*--------------------------------------------------about us page-------------------------------------------*/
+.about-services .watermarka span {
+    font-size: 65px;
+}
+.about-expert .about-expert-info {
+    padding-left: 0;
+    margin-top: 85px;
+}
+.about-expert {
+    padding: 0px 0px 80px 0px;
+}
+.about-expert .about-expert-head span {
+    font-size: 20px;
+}
+.about-expert .about-expert-image::before {
+    left: -27px;
+    right: 27px;
+    top: 27px;
+    bottom: -27px;
+}
+.communities .card {
+    height: 300px;
+    width: 300px;
+    object-fit: cover;
+}
+.about-services .service-image img {
+     width: auto; 
+    height: 100%;
+}
+/*-------------------------------------------------connect us page----------------------------------------------*/
+.connect-contact .watermarka {
+    left: 25px;
+}
+/*---------------------------------------------------team page------------------------------------------------- */
+ .smarter .smarter-info {
+    padding: 60px;
+    margin: 200px -24px -82px 19px;
+}
+.team-expert-image img {
+    width: 100%;
+}
+.team-smarter .team-smarter-info h2 {
+    font-size: 34px;
+}
+.team-smarter .team-smarter-info {
+    padding: 30px;
+}
+.communities .watermarka {
+    display: none;
+}
+.communities {
+    padding: 0px 0px 21px 0px;
+}
+.banner .button .btn {
+    margin-bottom: 20px;
+    margin-top: 20px;
+    padding: 10px 10px;
+}
+.banner h1 {
+    font-size: 40px;
+   margin: 10px 0px 10px 0px;
+}
+  .banner h6 {
+    margin-top: 60px;
+   font-size: 18px;
+}
+}
+@media screen and (max-width: 575px) {
+  body 
+    .banner h1 {
+    font-size: 30px;
+    text-align: center;
+}
+  .banner p {
+    line-height: 30px;
+    letter-spacing: 1px;
+    text-align: center;
+    font-size: 15px;
+    padding: 0px 6px;
+}
+.banner h6 {
+    font-size: 14px;
+    letter-spacing: 1px;
+    margin-top: 0px;
+    text-align: center;
+}
+.expert {
+    padding: 0px 0px 0px 0px;
+}
+.popular-places {
+    padding: 0px 0px 0px 0px;
+    position: relative;
+}
+.popular-places .watermarka {
+    left: 154px;
+    top: -159px;
+}
+
+.services {
+    padding-top: 0;
+}
+.services .service-left-info h5 {
+    font-size: 15px;
+    letter-spacing: 2px;
+    line-height: 20px;
+    text-align: center;
+}
+.services .service-left-info {
+    margin-top: 0px;
+    text-align: left;
+}
+.services .service-right-info h5 {
+    font-size: 15px;
+    letter-spacing: 2px;
+    line-height: 20px;
+    text-align: center;
+}
+.services .service-right-info {
+    margin-top: 0px;
+    text-align: left;
+}
+.communities-info {
+    margin-top: 90;
+    text-align: left;
+}
+.communities .communities-info span {
+    font-size: 27px;
+}
+.communities-info h5 {
+    font-size: 25px;
+    line-height: 16px;
+}
+.communities .communities-image1 {
+    margin: 10px 0px;
+    text-align: center;
+
+}
+.communities-image2 {
+    text-align: center;
+    margin: 10px 0px;
+}
+.communities .communities-image3 {
+    margin: 10px 0px;
+    text-align: center;
+}
+.contact h5 {
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+.contact form {
+    margin-top: 0px;
+    padding: 40px;
+}
+.contact .btn {
+    margin-top: 0;
+}
+.footer img {
+    margin: 13px 0px 14px 0px;
+}
+.footer p {
+    word-spacing: 1px;
+    line-height: 21px;
+    padding: 0px 25px;
+    margin-bottom: 15px;
+}
+.footer .social-icons a i {
+    color: white;
+    margin: 0px 7px;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 1px solid white;
+    font-size: 14px;
+}
+.footer .social-icons p {
+    margin-top: 15px;
+}
+.services .watermarka {
+    top: 53px;
+    left: 150px;
+}
+.slides .slick-prevs.slick-arrow {
+    bottom: 200px;
+    left: 0px;
+}
+.slides .slick-nexts.slick-arrow {
+    bottom: 200px;
+    right: 17px;
+}
+.slides p {
+    font-size: 16px;
+    margin-bottom: 24px;
+    line-height: 24px;
+}
+body .slider .card {
+    width: 165px;
+    height: 233px;
+}
+.slick-prevs.slick-arrow {
+    left: 90px;
+    bottom: 100px;
+}
+.slick-nexts.slick-arrow {
+    right: 90px;
+    bottom: 100px;
+}
+.popular-places .watermarka h6 {
+    font-size: 154px;
+    line-height: 60px;
+}
+.popular-places .watermarka span {
+    font-size: 62px;
+}
+
+.slider {
+    margin-top: -100px;
+}
+.property-valuation {
+   
+    height: 405px;
+}
+.property-valuation .card {
+    margin: 16px 0px 0px 0px;
+}
+.communities .watermarka {
+    display: none;
+}
+/*------------------------------------------------------about us page-------------------------------------------*/
+.form-row {
+    margin-right: 0px;
+    margin-left: 0px
+}
+/*------------------------------------------------------connect us page------------------------------------------*/
+.connect-expert .connect-expert-image::before {
+    left: 7px;
+    right: -8px;
+    top: 7px;
+    bottom: -7px;
+}
+.connect-contact .contact-head span {
+    font-size: 32px;
+}
+.connect-expert {
+    padding: 15px 0px 360px 0px;
+}
+.banner {
+    text-align: center;
+}
+.scroll-button img {
+    display: none;
+}
+.social-icon {
+    display: none;
+}
+.head {
+    position: relative;
+    background-color: #070505;
+}
+
+}
+
+@media screen and (max-width: 480px) {
+  body 
+    .popular-places .places-info {
+    background-color: #d7d7d721;
+    padding-left: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    padding-top: 0;
+}
+.slider {
+    margin-top: 100px;
+}
+.communities {
+    padding: 0;
+    position: relative;
+}
+ .services .watermarka span {
+    font-size: 0;
+}
+.services .watermarka h6 {
+    font-size: 73px;
+    line-height: 52px;
+}
+.popular-places .watermarka h6 {
+    font-size: 0;
+    line-height: 0;
+}
+.popular-places .watermarka span {
+    font-size: 0;
+}
+.fa-long-arrow-right:before {
+    font-size: 0px;
+}
+.communities .communities-image3 {
+    margin-top: 20px;
+}
+.communities-info {
+    padding-top: 90px;
+}
+.slides .card {
+    margin: 0;
+}
+.blogs-head h2 {
+    font-size: 26px;
+}
+.blogs .card {
+    padding: 0px;
+}
+.footer .links a {
+    margin: 0px 0px;
+    letter-spacing: 0px;
+}
+.fa-long-arrow-right:before {
+    font-size: 22px;
+}
+.fa-long-arrow-left:before {
+    font-size: 22px;
+}
+.head {
+    position: relative;
+    top: 0px;
+    right: 0;
+    left: 0px;
+    background-color: #000000d9;
+    z-index: 1;
+    /*text-align: center;*/
+}
+.banner .button .btn {
+    margin-bottom: 45px;
+}
+.head ul.nav.ml-auto {
+    margin: 10px auto;
+}
+.head li.nav-item.mobile img {
+    border-right: 0px;
+}
+/*-------------------------------------------------about us page--------------------------------------------------*/
+ .about-contact .contact-head span {
+    font-size: 29px;
+}
+.footer .button {
+    margin-right: 0;
+}
+.scroll-button img {
+    display: none;
+}
+.banner .social-icon {
+    display: none;
+}
+.communities-info {
+    margin-top: 0;
+}
+  
+}
+
+@media screen and (max-width: 360px) {
+  /*----------------------------------------------home page------------------------------------*/
+ 
+
+  .head {
+    position: relative;
+    text-align: center;
+}
+.head .navbar-brand img {
+    height: 44px;
+    width: 120px;
+}
+.head li.nav-item.mobile img {
+    height: 30px;
+    padding: 0px 10px 0px 10px;
+    width: auto;
+    border-right: 0px solid white;
+}
+.head .nav .nav-item a {
+    font-size: 10px;
+    line-height: 0px;
+}
+.head small {
+    font-size: 12px;
+    padding: 0px 10px;
+}
+.head ul .nav .text-center {
+    display: flex;
+    align-items: center;
+}
+.banner .social-icon {
+    display: none;
+}
+button.navbar-toggler img {
+    width: 20px;
+}
+button.navbar-toggler {
+    color: white;
+    margin: 12px 0px;
+}
+.banner .button .btn {
+    margin-bottom: 16px;
+    font-size: 10px;
+}
+.banner .button span .fa-play {
+    font-size: 10px;
+    padding-left: 6px;
+}
+.banner .button {
+  text-align: center;
+}
+.banner p {
+    line-height: 22px;
+    letter-spacing: 0px;
+    font-size: 15px;
+    padding: 7px 20px;
+}
+.banner .wrapper {
+    margin-top: 20px;
+}
+ .banner h1 {
+    font-size: 24px;
+    text-align: center;
+}
+.expert .expert-info {
+    padding-left: 0px;
+}
+.expert .expert-image::before {
+    display: none;
+}
+.expert .expert-info {
+    margin-top: 10px;
+}
+.expert .expert-info span {
+    line-height: 20px;
+    font-size: 16px;
+}
+body .expert .expert-info h2 {
+    font-size: 16px;
+    line-height: 20px;
+}
+.expert .expert-info img {
+    margin-bottom: 14px;
+    width: 66px;
+}
+body .expert {
+    padding: 23px 0px 15px 0px;
+}
+.slick-nexts.slick-arrow {
+    right: 90px;
+    top: -55px;
+    width: 20px;
+    right: 180px;
+}
+.slick-prevs.slick-arrow {
+    right: 90px;
+    top: -55px;
+    width: 20px;
+}
+.slider {
+    margin-top: 50px;
+}
+.property-valuation .card {
+    padding: 0;
+}
+.property-valuation .card .btn {
+    padding: 4px 4px;
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+.property-valuation {
+    height: 340px;
+}
+.property-valuation{background-image: none;}
+.communities-info {
+    padding-top: 0;
+}
+.communities-info h5 {
+    font-size: 12px;
+    line-height: 12px;
+    margin-top: 0px;
+}
+.communities .communities-info span {
+    font-size: 20px;
+    letter-spacing: 0px;
+}
+.communities-info img {
+    width: 66px;
+}
+.communities .btn {
+    padding: 5px 4px;
+    font-size: 13px;
+    margin-top: 0px;  
+}
+.expert .expert-info p {
+    word-spacing: 0px;
+    margin-bottom: 5px;
+    text-align: justify;
+}
+.plist .card {
+    margin-top: 0;
+}
+.expert .expert-info .btn {
+    padding: 3px 7px;
+    font-size: 11px;
+}
+.popular-places .places-info p {
+    word-spacing: 0px;
+    margin-bottom: 6px;
+    margin-top: 6px;
+    text-align: justify;
+}
+.popular-places .places-info h2 {
+    font-size: 20px;
+    line-height: 10px;
+}
+.contact span {
+    font-size: 16px;
+    letter-spacing: 0px;
+    margin-bottom: 0;
+}
+.contact .contact-head p {
+    margin-top: 10px;
+    font-size: 9px;
+}
+.contact .contact-head span img {
+    height: 25px;
+}
+.contact form {
+    margin-top: 0px;
+    padding: 0px;
+}
+.contact .form-control {
+    height: 25px;
+    margin: 3px 0px 2px 0px;
+}
+.contact label {
+    font-size: 10px;
+    letter-spacing: 0px;
+    margin-bottom: 0;
+}
+.contact .btn {
+    padding: 1px 7px;
+    font-size: 12px;
+    margin-top: 0px;
+}
+.contact .form-group .form-control {
+    height: 40px;
+}
+.contact {
+    padding: 10px 0px;
+}
+.footer p {
+    word-spacing: 0px;
+    line-height: 21px;
+    padding: 0px 0px;
+    margin-bottom: 15px;
+    text-align: justify;
+    font-size: 14px;
+}
+.footer .social-icons ul li a i {
+    color: white;
+    width: 25px;
+    height: 25px;
+    border-radius: 100%;
+    border: 1px solid white;
+    display: inline-flex;
+    align-items: center;
+    font-size: 14px;
+    justify-content: center;
+}
+
+.footer .links a {
+    padding: 0px 6px;
+    font-size: 12px;
+}
+.footer .links {
+    margin: 0px 0px 0px 0px;
+    padding-bottom: 0px;
+}
+.footer img {
+    margin: 6px 0px 6px 0px;
+    width: 110px;
+}
+.footer .button img {
+    width: 30px;
+}
+.footer .social-icons ul li {
+    padding: 0px 0px;
+}
+.footer .social-icons {
+    margin-top: 10px;
+}
+.blogs .card h5 {
+    line-height: 8px;
+    margin-bottom: 5px;
+    font-size: 12px;
+}
+.blogs .card span {
+    font-size: 14px;
+    letter-spacing: 0px;
+    margin-bottom: 10px;
+}
+.blogs-head h2 {
+    font-size: 16px;
+    line-height: 20px;
+}
+.blogs .blogs-head span {
+    font-size: 16px;
+    line-height: 16px;
+}
+.blogs .image {
+    width: 51px;
+}
+.communities .card {
+    height: auto;
+    width: auto;
+}
+.communities .btn i {
+    padding-left: 10px;
+    font-size: 10px;
+}
+.communities .communities-info span {
+    font-size: 16px;
+}
+
+.property-valuation .property-info .card h6 {
+    font-size: 16px;
+    line-height: 15px;
+}
+.services .btn {
+    padding: 5px 12px;
+    font-size: 12px;
+}
+.services .service-right-info h5 {
+    font-size: 14px;
+    letter-spacing: 0px;
+    line-height: 16px;
+  }
+  .services .service-left-info h5 {
+    font-size: 13px;
+    letter-spacing: 0px;
+    line-height: 16px;
+}
+}
+
+/*................................................Home page end.............................................*/
